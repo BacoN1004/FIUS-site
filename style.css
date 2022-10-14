@@ -1,0 +1,108 @@
+#title {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    border-color: grey;
+    border-radius: 15px;
+    color: white;
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 18px;
+    transition-duration: 0.4s;
+    border-width:3px;
+    border-style:solid;
+}
+#Text1:hover {
+    cursor: default;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#buttons {
+    text-align: center;
+}
+#social {
+    border: none;
+    background-color: green;
+    font-size: 30px;
+    border-radius: 12px;
+    padding: 100px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    transition-duration: 0.3s;
+}
+#development {
+    border: none;
+    background-color: cyan;
+    font-size: 30px;
+    border-radius: 12px;
+    padding: 80px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    transition-duration: 0.3s;
+}
+#entertainment {
+    border: none;
+    background-color:blueviolet;
+    font-size: 30px;
+    border-radius: 12px;
+    padding: 70px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    transition-duration: 0.3s;
+}
+#status {
+    border: none;
+    background-color:rgb(226, 110, 43);
+    font-size: 30px;
+    border-radius: 12px;
+    padding: 70px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    transition-duration: 0.3s;
+}
+#blog {
+    border: none;
+    background-color:rgb(43, 226, 171);
+    font-size: 30px;
+    border-radius: 12px;
+    padding: 70px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    transition-duration: 0.3s;
+}
+#social:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 50px;
+}
+#development:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 50px;
+}
+#entertainment:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 50px;
+}
+#status:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 50px;
+}
+#blog:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-size: 50px;
+}
+#ByBacoN {
+    border: none;
+    background-color: black;
+    color: white;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 15px;
+    border-radius: 30px;
+}
